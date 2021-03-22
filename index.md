@@ -29,8 +29,6 @@ These events include:
 
 # We need your help to run devopsdays events
 
-**We need a volunteer team to run the next Australian devopsdays in 2019.**
-
 You should volunteer to organise and run a devopsdays because:
 
 1. It looks good on your resume
