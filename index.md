@@ -25,6 +25,7 @@ These events include:
 - [Melbourne, 2015](https://legacy.devopsdays.org/events/2015-melbourne/)
 - [Sydney, 2016](https://www.devopsdays.org/events/2016-sydney/)
 - [Newcastle, 2018](https://www.devopsdays.org/events/2018-newcastle/)
+- [Sydney, 2019](https://www.devopsdays.org/events/2019-sydney/)
 
 # We need your help to run devopsdays events
 
