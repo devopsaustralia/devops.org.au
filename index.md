@@ -41,11 +41,3 @@ You should volunteer to organise and run a devopsdays because:
 We’ll help you with budget, venue, date, and sponsors.
 
 ### To volunteer, email us at `contact@devops.org.au`.
-
-# The boring bits
-
-Devops Australia is an incorporated association registered in Victoria, Australia.
-
-[Our ABN](https://abr.business.gov.au/ABN/View?abn=35167927157) is `35 167 927 157`.
-
-We don't run for profit, and are a team of five volunteers.
